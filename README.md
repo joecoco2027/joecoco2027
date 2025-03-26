@@ -1,10 +1,10 @@
 - 👋 Hi, I’m JOE
-- 👀 I’m interested in .python programming
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on django projects
-- 📫 How to reach me #joehacker9273@proton.me
+- 👀 I’m interested in c and python programming
+- 🌱 I’m currently learning machine learning and artificial intelligence
+- 💞️ I’m looking to collaborate on django projects, opencv projects and IOT projects
+- 📫 How to reach me #joehacker9273@proton.me#joefabilous7@gmail.com
 - 😄 Pronouns: peace to the world
-- ⚡ Fun fact: - people are bugs
+- ⚡ Fun fact: - people are bugs#bugsarebugs
 
 <!---
 joecoco2027/joecoco2027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
