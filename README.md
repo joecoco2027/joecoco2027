@@ -1,4 +1,5 @@
-[qrcode_user-images githubusercontent com](https://github.com/user-attachments/assets/03f72cda-262c-4775-818c-94a6343df622)
+![Uploading 225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif…]()
+
 - 👋 Hi, I’m JOE!
 - 👀 I’m interested in c and python programming
 - 🌱 I’m currently learning machine learning and artificial intelligence
