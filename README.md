@@ -1,4 +1,5 @@
-- 👋 Hi, I’m JOE
+[qrcode_user-images githubusercontent com](https://github.com/user-attachments/assets/03f72cda-262c-4775-818c-94a6343df622)
+- 👋 Hi, I’m JOE!
 - 👀 I’m interested in c and python programming
 - 🌱 I’m currently learning machine learning and artificial intelligence
 - 💞️ I’m looking to collaborate on django projects, opencv projects and IOT projects
