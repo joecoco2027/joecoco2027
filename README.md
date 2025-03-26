@@ -1,4 +1,4 @@
-225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/9ecd1626-47cb-422b-8571-4cf5121a7d02)
 
 - 👋 Hi, I’m JOE!
 - 👀 I’m interested in c and python programming
