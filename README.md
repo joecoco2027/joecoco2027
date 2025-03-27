@@ -4,7 +4,7 @@
 - 👀 I’m interested in c and python programming
 - 🌱 I’m currently learning machine learning and artificial intelligence
 - 💞️ I’m looking to collaborate on django(backend), react(frontend), react-native/flutter(mobile), opencv projects and IOT projects
-- 📫 How to reach me #joehacker9273@proton.me#joefabilous7@gmail.com
+- 📫 How to reach me #joehacker9273@proton.me#joefabilous77@gmail.com
 - 😄 Pronouns: peace to the world
 - ⚡ Fun fact: - people are bugs#bugsarebugs
 
