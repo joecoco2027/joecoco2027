@@ -2,11 +2,11 @@
 
 - 👋 Hi, I’m JOE!
 - 👀 I’m interested in c and python programming
-- 🌱 I’m currently learning machine learning and artificial intelligence
-- 💞️ I’m looking to collaborate on django|react &react-native | flutter | kotlin/swift| opencv projects and IOT projects(raspbery pi+FPGAs)
+- 🌱 I’m currently learning ML && AI
+- 💞️ fullstack | mobile | containers | web3
 - 📫 How to reach me #joehacker9273@proton.me#joefabilous77@gmail.com
 - 😄 Pronouns: peace to the world
-- ⚡ Fun fact: - people are bugs#bugsarebugs
+- ⚡ Fun fact: - people are bugs
 
 <!---
 joecoco2027/joecoco2027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
