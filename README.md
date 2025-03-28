@@ -4,7 +4,7 @@
 - 👀 I’m interested in c and python programming
 - 🌱 I’m currently learning ML && AI
 - 💞️ fullstack | mobile | containers | web3
-- 📫 How to reach me #joehacker9273@proton.me#joefabilous77@gmail.com
+- 📫 How to reach me #joefabilous77@gmail.com
 - 😄 Pronouns: peace to the world
 - ⚡ Fun fact: - people are bugs
 
